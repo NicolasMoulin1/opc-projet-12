@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NicolasMoulin1/opc-projet-12/static/css/main.efb381ae.css",
+    "main.js": "/NicolasMoulin1/opc-projet-12/static/js/main.3224380a.js",
+    "index.html": "/NicolasMoulin1/opc-projet-12/index.html",
+    "main.efb381ae.css.map": "/NicolasMoulin1/opc-projet-12/static/css/main.efb381ae.css.map",
+    "main.3224380a.js.map": "/NicolasMoulin1/opc-projet-12/static/js/main.3224380a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efb381ae.css",
+    "static/js/main.3224380a.js"
+  ]
+}
